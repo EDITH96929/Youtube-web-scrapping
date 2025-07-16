@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#youtube login details store 
+C:\Users\princ\Desktop\complete python programing\web_scrapping\store.env
+store.env 
+#youtube Gmail:hi.world.9692@gmail.com
+#youtube password : Sunil@9692
