@@ -1,0 +1,1 @@
+ai is that stands for airtifical intelligence. is the most discuss topic in the 2o th centuray
