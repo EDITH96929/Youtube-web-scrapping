@@ -11,8 +11,7 @@ import time, requests, os
 load_dotenv(dotenv_path="C:/Users/princ/Desktop/complete python programing/web_scrapping/store.env")
 EMAIL = os.getenv("YOUTUBE_EMAIL")
 PASSWORD = os.getenv("YOUTUBE_PASSWORD")
-# email = os.getenv("hi.world.9692@gmail.com")
-# PASSWORD = os.getenv("Sunil@9692")
+
 
 def login_youtube(driver):
     print("🔐 Logging into YouTube...")
